@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elhabibsoufian
-- 👀 I’m interested in php and his framwork
+- 👀 I’m interested in php and it's framwork
 - 🌱 I’m currently learning reactJs
 - 💞️ I’m not looking to collaborate yet
 - 📫 How to reach me soufian.elhabib@gmail.com
